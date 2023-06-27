@@ -22,8 +22,17 @@ Version 13.1.2
 
 ---
 
-Created an own module and used it in the code 
+# Tasks performed in this are below:
 
-Worked on Files System
+- Written a basic code for printing "Hello World" with filename - app.js
 
-Worked with Express JS
+- Written a code for Adding two numbers with filename - add.js
+
+- Written a code for Adding two numbers using modules created and imported with filenames - add_function.js and calc.js
+
+- Written a code for  creating a HTTP service and accessing using Localhost with filename - service.js
+
+- Worked on file systems with operations (read, write, append and delete) with filenames - filesystem_read.js, filesystem_write.js, filesystem_append.js and filesystem_delete.js
+
+- Installed ExpressJS using the NPM in NodeJS and created a service with few endpoint conditions and accessing it through Localhost filename - expressjs_proj.js
+ 
