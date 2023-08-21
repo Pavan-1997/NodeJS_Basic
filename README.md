@@ -10,7 +10,7 @@
 
 - NodeJS is a runtime environment where we can run JS on a physical machine that uses V8 JS Engine
 
--> NodeJS with HTTP module can be used at the Server side
+- NodeJS with HTTP module can be used at the Server side
 
 -> NPM (Node Package Manager) - Gives modules 
 
