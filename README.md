@@ -12,7 +12,7 @@
 
 - NodeJS with HTTP module can be used at the Server side
 
--> NPM (Node Package Manager) - Gives modules 
+- NPM (Node Package Manager) - Gives modules 
 
 -> Versions in NodeJS
 
