@@ -14,7 +14,7 @@
 
 - NPM (Node Package Manager) - Gives modules 
 
--> Versions in NodeJS
+- Versions in NodeJS
 
 Version 13.1.2
 
